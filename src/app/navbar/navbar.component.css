@@ -1,0 +1,35 @@
+.navbar {
+    color: white;
+    background-color: white;
+    border-bottom: 2px solid rgb(80, 80, 80);
+}
+.navbar a {
+    font-weight: bold;
+    color: black;
+}
+.navbar li
+{
+    margin-right: 5%;
+	border-right: 1px solid rgb(80, 80, 80);
+    white-space: nowrap;
+}
+.navbar a:hover
+{
+    color:#91e4d1;
+}
+.navbar-brand
+{
+    margin-left: 2%;
+}
+.collapse
+{
+    margin-left: 55%;
+}
+.navbar a:active
+{
+    color:#91e4d1 !important;
+}
+.active
+{
+    color: #91e4d1 !important;
+}
