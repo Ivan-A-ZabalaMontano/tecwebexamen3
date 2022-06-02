@@ -11,5 +11,7 @@ export class ContactoComponent implements OnInit {
 
   ngOnInit(): void {
   }
-
+  envio() {
+    alert("Se envio correctamente el mensaje");
+  }
 }
